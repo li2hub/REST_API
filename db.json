@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello ThingQBator"
+    },
+    {
+      "id: 2,
+      "title":"You have now learnt GET command using REST and HTTP"
+     }
+  ],
+  "profile": {
+    "name": "ThingQBator"
+  }
+}
