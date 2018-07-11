@@ -1,15 +1,14 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "Hello ThingQBator"
-    },
-    {
-      "id: 2,
-      "title": "You have now learnt GET command using REST and HTTP"
-     }
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "ThingQBator"
+    "name": "typicode"
   }
 }
