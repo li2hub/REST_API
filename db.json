@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Hello from ThingQbator" },
-    { "id": 2, "title": "You have successfully learnt REST using HTTP" },
-    { "id": 3, "title": "Now time to go learn something new, Goodbye" }
+    { "id": 1, "message": "Hello from ThingQbator" },
+    { "id": 2, "message": "You have successfully learnt REST using HTTP" },
+    { "id": 3, "message": "Now time to go learn something new, Goodbye" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
